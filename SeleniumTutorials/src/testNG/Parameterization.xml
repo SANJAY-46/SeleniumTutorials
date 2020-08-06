@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="test suite">
+<test name="testname">
+
+<parameter name="Name" value="duck"></parameter>
+
+<!--so inga duck nu kudukra value anga java class laa change agi print agum-->
+
+<classes>
+<class name="testNG.Parameterization"></class>
+</classes>
+
+</test>
+</suite>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Test Suite">
+<test name="test Case">
+
+<groups>
+<run>
+
+<!-- <include></include> and <exclude></exclude> are used to include or exclude a test case --> 
+
+
+<include name="Apple"></include>
+<include name="samsung"></include>
+
+</run>
+</groups>
+
+<classes>
+
+<class name= "testNG.GroupingExample"></class>
+
+</classes>
+</test>
+</suite>

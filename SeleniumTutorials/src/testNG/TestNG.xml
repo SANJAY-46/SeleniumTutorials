@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<suite name="Test Suite">
+
+<test name="Test Xml">
+
+<classes>
+
+<class name="testNG.SampleTestCase"></class>
+<class name="testNG.SetPriority"></class>
+<class name="testNG.SkipATestCase"></class>
+
+</classes>
+
+</test>
+
+</suite>
