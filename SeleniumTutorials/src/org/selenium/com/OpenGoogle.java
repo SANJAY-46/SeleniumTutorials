@@ -10,7 +10,7 @@ public class OpenGoogle {
       
 		
 		//1.open chrome;
-        //2.Google home page;
+        //2.Google home pages;
 		
 		System.setProperty("webdriver.chrome.driver", "D:\\chromedriver.exe");
 		
