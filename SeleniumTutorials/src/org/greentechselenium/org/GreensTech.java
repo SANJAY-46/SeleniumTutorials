@@ -13,7 +13,7 @@ public class GreensTech {
 		  
 		WebDriver driver=new ChromeDriver();
 		
-		//2.greentecch google  
+		//2.greentecch google .co.in
 		
 		driver.get("http://www.google.com");
 		
